@@ -1,6 +1,6 @@
 # Welcome to my profile 👋
 
-### My name is Aidan and I am currently a student on IO Academy's Full Stack Track
+### My name is Aidan and I am a recent graduate from IO Academy's Full Stack Track
 
 **About me:**
 
